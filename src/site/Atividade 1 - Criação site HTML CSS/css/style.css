@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+header {
+    height: 40px;
+    background: rgb(43, 42, 42);
+}
+
+section {
+    padding: 30px;
+}
+
+main {
+    background: rgb(217, 227, 233);
+    margin: 30px;
+}
+
+p {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 13pt;
+}
+
+h3 {
+    font-size: 20px;
+    text-transform: capitalize;
+}
+
+.legendas {
+    text-transform: lowercase;
+    font-style: italic;
+}
+
+
+
+#formulario {
+    background-color: rgb(177, 202, 218);
+    padding: 3% 5%;
+}
